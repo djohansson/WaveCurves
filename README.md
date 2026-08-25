@@ -1,5 +1,7 @@
 # Wave Curves — a reference implementation
 
+![alt text](image.png)
+
 A self-contained C99 + SDL3 implementation of
 
 > **Wave Curves: Simulating Lagrangian water waves on dynamically deforming surfaces**
